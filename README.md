@@ -1,0 +1,2 @@
+This is a graphical implementation of the classic Tic-Tac-Toe (X-O) game, built using Python and the Pygame library. The game supports two-player mode on the same device with an intuitive graphical user interface, player turn indication, automatic winner detection, and a custom Reset button that appears after each game to allow easy restarting.
+The project focuses on applying core programming concepts like 2D graphics, event handling, game logic, and object-oriented design using Python.
